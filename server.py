@@ -1,6 +1,4 @@
-# Welcome to PyShine
-# In this video server is receiving video from clients.
-# Lets import the libraries
+
 import socket, cv2, pickle, struct
 import imutils
 import threading
