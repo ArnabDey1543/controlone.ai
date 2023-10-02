@@ -2,7 +2,7 @@
 import socket, cv2, pickle, struct
 import imutils
 import threading
-import pyshine as ps  # pip install pyshine
+import pyshine as ps  
 import cv2
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
